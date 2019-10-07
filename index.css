@@ -1,0 +1,189 @@
+*{margin:0;padding:0;}
+img{width:100%}
+section.firstsec {
+    background: 
+	linear-gradient(#00000075,#00000075),
+	linear-gradient(#00000075,#00000075),url('img/01.jpg');
+    height: 600px;
+	background-repeat: no-repeat;
+    background-size: cover;
+	background-attachment: fixed;
+}
+
+.FsecCON {
+    width: 500px;
+    margin: auto;
+    text-align: center;
+    padding: 150px 27px;
+}
+.FsecDIm {
+    width: 181px;
+    margin-left: 140px;
+}
+
+.FsecT {
+    font-family: arial;
+    font-size: 25px;
+    color: #bbbbbb;
+    padding: 10px;
+}
+
+.FescP span {
+    font-family: arial black;
+    background: #fff;
+    padding: 5px;
+}
+.button button {
+    margin-top: 14px;
+    padding: 10px;
+    font-family: arial;
+    background: #22ef7d;
+    border: none;
+    border-radius: 4px;
+	transition:all 1s;
+}
+ button:hover{
+	 color:white;
+	 background:#1c354096
+}
+
+h1.secSEChead {
+    width: 200px;
+    padding: 27px;
+    margin: auto;
+    color: #19323c;
+}
+.secSECim {
+    width: 349px;
+    border: 3px solid #1a323e;
+}
+
+.sectwocon {
+    width: 374px;
+    text-align: center;
+    margin-bottom: 19px;
+    display: inline-block;
+}
+
+.secSECP {
+    font-family: arial;
+    font-size: 20px;
+    padding: 12px;
+	
+}
+
+.secSECBU button {
+    padding: 10px 21px;
+    background: #22ef7d;
+    border: none;
+    transition: all 1s;
+}
+section.SecSEC {
+    width: 1170px;
+    margin: auto;
+}
+.contentwrapper {
+    margin-left: 25px;
+}
+.secSECBU button:hover{ 
+	color:white;
+	background:#060b25
+}
+section.secTHREE {
+    height: 300px;
+    background: #1e233c;
+}
+.secTHREECON {
+    width: 834px;
+    text-align: center;
+    padding: 108px 18px 54px 249px;
+    font-size: 22px;
+}
+
+.secTHREEhead {
+    color: #35e9ff;
+    font-family: arial black;
+}
+.secTHREEbody {
+    color: #a7a7a7;
+}
+
+.secfourtitle {
+    width: 500px;
+    font-size: 22px;
+    text-align: center;
+    margin: auto;
+    padding: 20px;
+	font-family: arial;
+}
+
+h1.secfourh1 {
+    font-size: 46px;
+    padding-bottom: 9px;
+}
+span.headcolor {
+    color: orange;
+}
+
+.secfourcon {
+    width: 293px;
+    text-align: center;
+    padding: 30px;
+    display: inline-block;
+    margin-bottom: 32px;
+    margin-right: 32px;
+    box-shadow: -1px 1px 14px 2px #bbbbbb;
+	transition:all 1s;
+}
+.secfourIMG {
+    width: 74px;
+    display: inline-block;
+    padding-bottom: 17px;
+	transition:all 1s;
+}
+
+.secfourP {
+    font-family: arial;
+    font-size: 20px;
+	transition:all 1s;
+}
+
+section.secfour {
+    width: 1170px;
+    margin: auto;
+}
+.secfourIMG:hover{transform: scale(1.1)}
+.secfourcon .secfourP:hover{color:orange;}
+
+section.secSIX {
+    height: 450px;
+    background: linear-gradient(#000000c4,#000000bd),
+	linear-gradient(#0000000a,#00000059),url(img/17.jpg);
+    background-attachment: fixed;
+}
+
+.sexSIXcon {
+    width: 738px;
+    margin: auto;
+    text-align: center;
+    padding-top: 191px;
+}
+
+.secSIXhead {
+    font-family: arial;
+    font-size: 28px;
+    color: gainsboro;
+}
+.secSIXpera {
+    font-family: arial;
+    font-size: 20px;
+    padding-top: 15px;
+    color: #bfbfbf;
+}
+
+
+
+
+
+
+
